@@ -26,4 +26,9 @@ public class Employee{
 
 	@Column(name = "address")
 	private String address;
+	
+	@Column(name = "mobile")
+	private String mobile;
+	
+	
 }
